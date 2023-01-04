@@ -1,3 +1,4 @@
+$(document).attr("src", fetchCat)
 
 $("button").click(fetchCat)
 

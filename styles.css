@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-family: 'Press Start 2P', cursive;
     font-size: 20px;
-    padding-top: 5%;
+    padding-top: 20px;
 }
 
 button {
@@ -10,7 +10,7 @@ button {
     font-size: 20px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 1200px) {
     img {
         height: 80%;
         width: 80%;
